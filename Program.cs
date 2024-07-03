@@ -12,7 +12,6 @@ namespace Demo06
         ///       2. his lifetime ends at the function end
         /// </summary>
        
-
         static void Main(string[] args)
         {
             // that if TypeA is public
